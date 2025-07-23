@@ -21,7 +21,7 @@ A fast and minimalist currency converter built using **Vite**, **React**, and **
 
 ```bash
 # Clone the repository
-git clone https://github.com/keshavvsonii/CurrencyConv.git
+git clone https://github.com/keshavvsonii01/CurrencyConv.git
 
 # Navigate into the project directory
 cd CurrencyConv
